@@ -2,6 +2,15 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 ![Alt text](https://github.com/jatenikuma/Ethio-COVID-19-Tracker/blob/master/public/Screen%20Shot%202020-06-23%20at%2011.58.46%20AM.png?raw=true "Optional Title")
+
+![Alt text](https://github.com/jatenikuma/Ethio-COVID-19-Tracker/blob/master/public/Screen%20Shot%202020-06-23%20at%2011.58.46%20AM.png?raw=true "Optional Title")
+
+
+![Alt text](https://github.com/jatenikuma/Ethio-COVID-19-Tracker/blob/master/public/Screen%20Shot%202020-06-23%20at%2011.58.46%20AM.png?raw=true "Optional Title")
+
+
+![Alt text](https://github.com/jatenikuma/Ethio-COVID-19-Tracker/blob/master/public/Screen%20Shot%202020-06-23%20at%2011.58.46%20AM.png?raw=true "Optional Title")
+
 ## Available Scripts
 
 In the project directory, you can run:
