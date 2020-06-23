@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
 ## Available Scripts
 
 In the project directory, you can run:
