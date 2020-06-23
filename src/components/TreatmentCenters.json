@@ -1,0 +1,283 @@
+{
+
+    "Ethiopian Public Health Institute" : {
+        "centerId" : "1",
+        "latitude" : "9.048126",
+        "longitude" : "38.730579",
+        "description": ""
+
+    }
+
+,
+   "International Clinical Laboratories" : {
+        "centerId" : "4",
+        "latitude" : "9.022996",
+        "longitude" : "38.842461",
+        "description": ""
+    }
+,
+
+    "Ethiopian Biotechnology Institute" : {
+        "centerId" : "5",
+        "latitude" : "8.997975",
+        "longitude" : "38.758931",
+        "description": ""
+    }
+,
+
+    "ጥቁር አንበሳ ሆስፒታል Black Lion Hospital" : {
+        "centerId" : "6",
+        "latitude" : "9.020393",
+        "longitude" : "38.749592",
+        "description": ""
+    }
+,
+
+    "Alert Hospital | አለርት ሆስፒታል" : {
+        "centerId" : "7",
+        "latitude" : "8.985863",
+        "longitude" : "38.710296",
+        "description": ""
+    }
+,
+
+    "Addis Ababa Science and Technology University የአዲስ አበባ ሳይንስና ቴክኖሎጂ ዩኒቨርስቲ" : {
+        "centerId" : "8",
+        "latitude" : "8.891486",
+        "longitude" : "38.810879",
+        "description": ""
+    }
+,
+
+    "Addis Ababa University, 4killo" : {
+        "centerId" : "9",
+        "latitude" : "9.033803",
+        "longitude" : "38.763682",
+        "description": ""
+    }
+,
+
+    "ጦር ኃይሎች ሆስፒታል Armed Forces Hospital" : {
+        "centerId" : "10",
+        "latitude" : "9.012382",
+        "longitude" : "38.724384",
+        "description": ""
+    }
+,
+
+    "ብሔራዊ የእንስሳት ጤና በሽታውን እና ምርመራ ማዕከል National Animal Health Diagnosis and Investigation Center " : {
+        "centerId" : "11",
+        "latitude" : "8.903882",
+        "longitude" : "38.602970",
+        "description": ""
+    }
+,
+
+    "ሐረማያ ዩንቨርስቲ Haramaya University" : {
+        "centerId" : "12",
+        "latitude" : "9.408365",
+        "longitude" : "42.034510",
+        "description": ""
+    }
+,
+
+    "Arsi University" : {
+        "centerId" : "13",
+        "latitude" : "7.962362",
+        "longitude" : "39.128383",
+        "description": ""
+    }
+,
+
+    "Jimma Health Center" : {
+        "centerId" : "14",
+        "latitude" : "7.678584",
+        "longitude" : "36.830334",
+        "description": ""
+    }
+,
+
+    "ነቀምት Nekemte" : {
+        "centerId" : "15",
+        "latitude" : "9.085144",
+        "longitude" : "36.553015",
+        "description": ""
+    }
+,
+
+    "WOLLEGA UNIVERSITY" : {
+        "centerId" : "16",
+        "latitude" : "9.081219",
+        "longitude" : "36.582665",
+        "description": ""
+    }
+,
+
+    "Ambo Hospital" : {
+        "centerId" : "17",
+        "latitude" : "8.983515",
+        "longitude" : "37.850824",
+        "description": ""
+    }
+,
+
+    "Shashamane Hospital" : {
+        "centerId" : "18",
+        "latitude" : "7.255771",
+        "longitude" : "38.656321",
+        "description": ""
+    }
+,
+
+    "Mettu Karl Hospital" : {
+        "centerId" : "19",
+        "latitude" : "8.297784",
+        "longitude" : "35.576387",
+        "description": ""
+    }
+,
+
+    "National Veterinary Institute (NVI)" : {
+        "centerId" : "20",
+        "latitude" : "8.766943",
+        "longitude" : "38.999088",
+        "description": ""
+    }
+,
+
+    "መደ ወላቡ ዩኒቨርሲቲ Madda Walabu University" : {
+        "centerId" : "21",
+        "latitude" : "7.142849",
+        "longitude" : "39.997069",
+        "description": ""
+    }
+,
+
+    "የአማራ የህዝብ ጤና ተቋም Amhara Public Health Institute" : {
+        "centerId" : "22",
+        "latitude" : "11.607268",
+        "longitude" : "37.371369",
+        "description": ""
+    }
+,
+
+    "ወሎ ዩኒቨርሲቲ Wollo University" : {
+        "centerId" : "23",
+        "latitude" : "11.182112",
+        "longitude" : "39.617257",
+        "description": ""
+    }
+,
+
+    "Debre Birhan Hospital" : {
+        "centerId" : "24",
+        "latitude" : "9.679186",
+        "longitude" : "39.535305",
+        "description": ""
+    }
+,
+
+    "Woldiya Hospital" : {
+        "centerId" : "25",
+        "latitude" : "11.832913",
+        "longitude" : "39.599112",
+        "description": ""
+    }
+,
+
+    "Debre Tabor Hospital" : {
+        "centerId" : "26",
+        "latitude" : "11.903210",
+        "longitude" : "37.964165",
+        "description": ""
+    }
+,
+
+    "INJIBARA UNIVERSITY" : {
+        "centerId" : "27",
+        "latitude" : "10.954111",
+        "longitude" : "36.914926",
+        "description": ""
+    }
+,
+
+    "Tibebe Ghion Specialized Teaching Hospital (TGSTH)" : {
+        "centerId" : "28",
+        "latitude" : "11.524927",
+        "longitude" : "37.400809",
+        "description": ""
+    }
+,
+
+    "ቅድስት ማርያም ሆስፒታል St mary hospital" : {
+        "centerId" : "29",
+        "latitude" : "14.120831",
+        "longitude" : "38.728494",
+        "description": ""
+    }
+,
+
+    "ኢንስቲትዩት ምርምር ጥዕና ትግራይ Tigray Health Research Institute" : {
+        "centerId" : "30",
+        "latitude" : "13.516747",
+        "longitude" : "39.453779",
+        "description": ""
+    }
+,
+
+    "ደብረ ማርቆስ ሆስፒታል Debre Markos Hospital" : {
+        "centerId" : "31",
+        "latitude" : "10.329898",
+        "longitude" : "37.734377",
+        "description": ""
+    }
+,
+
+    "University of Gondar" : {
+        "centerId" : "32",
+        "latitude" : "12.589759",
+        "longitude" : "37.444174",
+        "description": ""
+    }
+,
+
+    "Wolaita Sodo University" : {
+        "centerId" : "33",
+        "latitude" : "6.829293",
+        "longitude" : "37.750969",
+        "description": ""
+    }
+,
+
+    "SNNPR Public Health Center" : {
+        "centerId" : "34",
+        "latitude" : "6.747029",
+        "longitude" : "38.414067",
+        "description": ""
+    }
+,
+
+    "Arba Minch University Medical Hospital" : {
+        "centerId" : "35",
+        "latitude" : "6.015809",
+        "longitude" : "37.547351",
+        "description": ""
+    }
+,
+
+    "Wachemo University" : {
+        "centerId" : "36",
+        "latitude" : "7.552857",
+        "longitude" : "37.883147",
+        "description": ""
+    }
+,
+
+    "ጅጅጋ ዩኒቨርሲቲ Jigjiga University" : {
+        "centerId" : "37",
+        "latitude" : "9.361886",
+        "longitude" : "42.830747",
+        "description": ""
+    }
+
+}
