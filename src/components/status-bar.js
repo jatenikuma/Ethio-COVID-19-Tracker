@@ -1,59 +1,52 @@
-import React , {useState , useContext} from 'react'
-import {Data_Context} from './dataContext' 
+import React, { useContext } from "react";
+import { Data_Context } from "./dataContext";
+import "../App.css";
 
-import { Row, Card, CardBody, Col} from 'reactstrap';
-import {Table , TableCell, TableBody, TableContainer, TableHead, TableRow} from '@material-ui/core';
+const StatusBar = () => {
+  const { country } = useContext(Data_Context);
+  const [Country] = country;
 
-const StatusBar = () =>{
+  const { totalConfirmed } = useContext(Data_Context);
+  const [TotalConfirmed] = totalConfirmed;
 
-    const { country } = useContext (Data_Context)
-    const [Country , setCountry ] = country
+  const { totalDeaths } = useContext(Data_Context);
+  const [TotalDeaths] = totalDeaths;
 
-    const { totalConfirmed } = useContext (Data_Context)
-    const [TotalConfirmed , setTotalConfimed] = totalConfirmed
+  const { new_cases } = useContext(Data_Context);
+  const [New_cases] = new_cases;
 
-    const { totalDeaths }= useContext (Data_Context)
-    const [TotalDeaths , setTotalDeaths] = totalDeaths
+  const { new_deaths } = useContext(Data_Context);
+  const [New_deaths] = new_deaths;
 
-    const { new_cases} = useContext (Data_Context)
-    const [New_cases , setNewCases] = new_cases
+  return (
+    <div className="status-bar">
+      <table className="table">
+        <colgroup>
+          <col style={{ width: "20%" }} />
+          <col style={{ width: "20%" }} />
+          <col style={{ width: "20%" }} />
+          <col style={{ width: "20%" }} />
+          <col style={{ width: "20%" }} />
+        </colgroup>
 
-    const { new_deaths} = useContext (Data_Context)
-    const [New_deaths , setNewDeaths] = new_deaths
+        <tr>
+          <th>COUNTRY</th>
+          <th>TOTAL CASES</th>
+          <th>TOTAL DEATHS</th>
+          <th>NEW CASES</th>
+          <th>NEW DEATHS</th>
+        </tr>
 
-return(
+        <tr>
+          <td>{Country}</td>
+          <td>{TotalConfirmed}</td>
+          <td>{TotalDeaths}</td>
+          <td>{New_cases}</td>
+          <td>{New_deaths}</td>
+        </tr>
+      </table>
+    </div>
+  );
+};
 
-            <div  >
-                <Row>
-                        <TableContainer >
-                        <Table style={{ tableLayout: 'fixed' }}>
-                            <thead style={{fontSize : '110%' , fontFamily : "Overpass, sans-serif",textAlign : "center"}}>
-                                <tr >
-                                    <th>COUNTRY</th>
-                                    <th>TOTAL NUMBER OF CASES</th>
-                                    <th>TOTAL NUMBER OF DEATHS</th>
-                                    <th>NEW CASES</th>
-                                    <th>NEW DEATHS</th>
-                                </tr>
-                            </thead>
-                            <tbody  style={{fontSize : '120%' , fontWeight : "bolder", fontFamily : "Overpass, sans-serif"}}>
-                                <tr>
-                                    <td>{ Country }</td>
-                                    <td>{ TotalConfirmed }</td>
-                                    <td>{ TotalDeaths }</td>
-                                    <td>{ New_cases }</td>
-                                    <td>{ New_deaths }</td>
-
-                                </tr>
-                            </tbody>
-                        </Table>
-                    </TableContainer>            
-                </Row>  
-                    
-                
-            </div>
-                    
-)
-}
-
-export default StatusBar
+export default StatusBar;

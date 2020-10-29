@@ -1,4 +1,4 @@
-import React , {useState, useContext, useEffect} from 'react'
+import React , { useContext} from 'react'
 import { Line } from  'react-chartjs-2';
 import {Data_Context} from './dataContext' 
 
@@ -7,10 +7,10 @@ const CovidLine = () =>{
 
     //chart labels
     const {dates} = useContext (Data_Context)
-    const [ Dates , setDates] = dates
+    const [ Dates ] = dates
 
     const {deaths} = useContext (Data_Context)
-    const [Deaths , setDeaths] = deaths
+    const [Deaths ] = deaths
 
     
 

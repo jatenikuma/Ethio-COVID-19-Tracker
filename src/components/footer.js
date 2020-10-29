@@ -1,7 +1,6 @@
 import React  from 'react'
 import TwitterIcon from '@material-ui/icons/Twitter';
 import LinkedInIcon from '@material-ui/icons/LinkedIn';
-import Divider from '@material-ui/core/Divider';
 
 const Footer = () => {
 
